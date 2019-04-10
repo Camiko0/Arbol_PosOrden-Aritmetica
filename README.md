@@ -1,4 +1,4 @@
-# Solución de expresiones aritméticas con árboles PosOrden
+# Solución de expresiones aritméticas con árboles PostOrden
 
 # Contenido
 El proyecto cuenta con 3 clases:
@@ -10,7 +10,7 @@ El proyecto cuenta con 3 clases:
     
 Además tiene 2 archivos .txt:
     
-    expresiones.txt, que contiene un grupo de expresiones a solucionar en notación posorden.
+    expresiones.txt, que contiene un grupo de expresiones a solucionar en notación postorden.
     resultados.txt, un archivo plano en donde se guardará la solución de las expresiones.
     
 # Ejecución del proyecto
