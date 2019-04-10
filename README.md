@@ -3,7 +3,7 @@
 # Contenido
 El proyecto cuenta con 4 clases:
 
-    logica, la clase con la lógica
+    inicio, clase principal
     pila, encargada de gestionar la pila
     arbol, encargada de crear nodos
     arbol_expresiones, para la gestión del árbol
