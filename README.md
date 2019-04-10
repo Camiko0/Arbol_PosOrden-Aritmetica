@@ -1,7 +1,7 @@
 # Solución de expresiones aritméticas con árboles PostOrden
 
 # Contenido
-El proyecto cuenta con 3 clases:
+El proyecto cuenta con 4 clases:
 
     logica, la clase con la lógica
     pila, encargada de gestionar la pila
