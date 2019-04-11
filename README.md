@@ -24,6 +24,8 @@ Christian Camilo Ibañez Torres - 20141020116
 
 Vanessa López Fuquen - 20152020725
 
+asdfghjkjh
+
 # Agradecimientos
 Al ingeniero Alejandro Daza, por facilitar las clases para el manejo de pilas y árboles (pila.py, arbol.py y arbol_expresiones.py)
 
