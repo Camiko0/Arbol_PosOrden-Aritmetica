@@ -14,7 +14,7 @@ Además tiene 2 archivos .txt:
     resultado.txt, archivo que guardara los resultados de las operaciones aritmeticas.
 
 # Ejecución del proyecto
-En la clase main se importan las clases pila y arbol_expresiones, dentro de la inicio.py se crea una instancia a la misma clase por lo cual basta correrla. El resultado de las operaciones del archivo expresiones.txt se puede ver en el archivo resultado.txt.
+En la clase inicio se importan las clases pila y arbol_expresiones, dentro de la inicio.py se crea una instancia a la misma clase por lo cual basta correrla. El resultado de las operaciones del archivo expresiones.txt se puede ver en el archivo resultado.txt.
 
 # Construido con:
 El lenguaje Python
