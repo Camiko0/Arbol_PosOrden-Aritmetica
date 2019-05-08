@@ -1,1 +1,1 @@
-Archivo para las respuestas de las expresiones aritmeticas
+Respuestas del programa
